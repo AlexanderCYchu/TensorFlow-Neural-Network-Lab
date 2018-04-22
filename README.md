@@ -1,3 +1,4 @@
+# All the work is done in intro_to_tensorflow.ipynb, below is the .md output 
 
 <h1 align="center">TensorFlow Neural Network Lab</h1>
 
